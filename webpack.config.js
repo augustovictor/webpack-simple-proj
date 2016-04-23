@@ -7,7 +7,7 @@ module.exports = {
 		filename : 'bundle.js'
 	},
 
-	devserver: {
+	devServer: {
 		contentBase        : './public',
 		colors             : true,
 		historyApiFallback : true,
